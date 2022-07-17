@@ -1,0 +1,2 @@
+on chat:
+	send "hi" to player
